@@ -1,6 +1,8 @@
+![MasterHead](https://github.com/user-attachments/assets/7834a2e7-5c0e-4b38-8fce-04c574a90cfc)
+
 <h1 align="center">Hi 👋, I'm Vishnu J Narayanan</h1>
 <h3 align="center">A passionate Cloud Developer with passion for Cybersecurity</h3>
-
+<p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnuj-n&label=Profile%20views&color=0e75b6&style=flat" alt="vishnuj-n" /> </p>
 
 - 🔭 I’m currently working on [stock market predictor](https://github.com/Vishnuj-n/stock-market-predictor)
