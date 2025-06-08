@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/user-attachments/assets/7834a2e7-5c0e-4b38-8fce-04c574a90cfc)
 
 <h1 align="center">Hi 👋, I'm Vishnu J Narayanan</h1>
-<h3 align="center">A passionate Cloud Developer with passion for Cybersecurity</h3>
+<h3 align="center">A passionate Cloud Developer with passion for AI</h3>
 <img align="right" alt="Coding" width= "400" height="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnuj-n&label=Profile%20views&color=0e75b6&style=flat" alt="vishnuj-n" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **interesting python projects**
 
-- 🤝 I’m looking for help with **to get started with CyberSecurity**
+- 🤝 I’m looking for help with **to get started with AI**
 
 - 💬 Ask me about **Azure | Git | ML**
 
