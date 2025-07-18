@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/user-attachments/assets/7834a2e7-5c0e-4b38-8fce-04c574a90cfc)
 
 <h1 align="center">Hi 👋, I'm Vishnu J Narayanan</h1>
-<h3 align="center">Cloud Developer | Aspiring AI Engineer | Open Source Enthusiast</h3>
+<h3 align="center">AI Engineer| Cloud Developer  | Open Source Enthusiast</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="300" alt="Coder GIF" />
@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 - 🧠 I’m a **Computer Science & Data Science undergrad** at Atria Institute of Technology (2027 batch).
-- ☁️ I specialize in **Cloud-based solutions** and have a growing interest in **AI & ML applications**.
+- ☁️ I specialize in **AI & ML applications** and have a growing interest in **Cloud-based solutions**.
 - 📊 Currently exploring **Unsupervised Learning**, Data Pipelines, and Cloud AI tooling.
 - 🤝 Open to **collaborations** on Python, ML, and Cloud-native tools.
 - 📬 Reach me at: **vishnujn2005@gmail.com**
